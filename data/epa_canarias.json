@@ -1,0 +1,31 @@
+{
+  "title": "Población de 16 y más años por relación con la actividad",
+  "territory": "Canarias",
+  "period": "2026T2",
+  "unit": "miles de personas",
+  "total": 1989.2,
+  "rows": [
+    {
+      "category": "Ocupados",
+      "thousands": 1035.5,
+      "series": "EPA433926",
+      "share": 0.5205610295596219
+    },
+    {
+      "category": "Parados",
+      "thousands": 135.9,
+      "series": "EPA433929",
+      "share": 0.06831892217977076
+    },
+    {
+      "category": "Inactivos",
+      "thousands": 817.8,
+      "series": "EPA433933",
+      "share": 0.4111200482606073
+    }
+  ],
+  "source": "https://www.ine.es/jaxiT3/Tabla.htm?L=0&t=65291",
+  "api": "https://servicios.ine.es/wstempus/js/ES/DATOS_TABLA/65291?nult=1",
+  "retrieved_date": "2026-10-22",
+  "unemployment_rate": 0.11601502475670138
+}
